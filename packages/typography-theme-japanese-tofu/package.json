@@ -3,6 +3,9 @@
   "description": "",
   "version": "0.0.1-alpha.1",
   "main": "index.js",
+  "dependencies": {
+    "gray-percentage": "^2.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/riywo/typography-japanese/issues"
   },
+  "keywords": [
+    "css",
+    "typography",
+    "typography-theme"
+  ],
   "homepage": "https://github.com/riywo/typography-japanese#readme"
 }
