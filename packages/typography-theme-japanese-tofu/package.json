@@ -1,0 +1,19 @@
+{
+  "name": "typography-theme-japanese-tofu",
+  "description": "",
+  "version": "0.0.1-alpha.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riywo/typography-japanese.git"
+  },
+  "author": "Ryosuke IWANAGA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riywo/typography-japanese/issues"
+  },
+  "homepage": "https://github.com/riywo/typography-japanese#readme"
+}

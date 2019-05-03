@@ -1,7 +1,41 @@
 {
-  "name": "root",
+  "name": "typography-japanese",
   "private": true,
+  "description": "",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "dependencies": {
+    "gatsby": "^2.3.34",
+    "gatsby-plugin-typography": "^2.2.13",
+    "gatsby-source-filesystem": "^2.0.33",
+    "gatsby-transformer-remark": "^2.3.12",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-typography": "^0.16.19",
+    "typescript": "^3.4.5",
+    "typography": "^0.16.19",
+    "typography-theme-fairy-gates": "^0.16.19",
+    "typography-theme-japanese-riywo": "file:./packages/typography-theme-japanese-riywo"
+  },
   "devDependencies": {
-    "lerna": "^3.13.4"
+    "lerna": "^3.13.4",
+    "gh-pages": "^2.0.1",
+    "prettier": "^1.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riywo/typography-japanese.git"
+  },
+  "bugs": {
+    "url": "https://github.com/riywo/typography-japanese/issues"
   }
 }
