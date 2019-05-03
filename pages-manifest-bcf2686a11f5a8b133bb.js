@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{144:function(a){a.exports={pages:[{componentChunkName:"component---src-templates-readme-js",jsonName:"index",path:"/"}],dataPaths:{"dev-404-page-5f9":"829/path---dev-404-page-5-f-9-fab-o7af702RpOxvpRo1x1JR8NttFI",index:"452/path---index-6a9-yLaaX4ZTBRcaA9DfDWaUnc2o0C0"}}}}]);
+//# sourceMappingURL=pages-manifest-bcf2686a11f5a8b133bb.js.map
