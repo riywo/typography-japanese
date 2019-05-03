@@ -1,7 +1,7 @@
 {
   "name": "typography-theme-japanese-tofu",
   "description": "",
-  "version": "0.0.1-alpha.1",
+  "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
     "gray-percentage": "^2.0.0"
