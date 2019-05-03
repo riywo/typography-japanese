@@ -24,7 +24,7 @@
     "typescript": "^3.4.5",
     "typography": "^0.16.19",
     "typography-theme-fairy-gates": "^0.16.19",
-    "typography-theme-japanese-riywo": "file:./packages/typography-theme-japanese-riywo"
+    "typography-theme-japanese-tofu": "file:./packages/typography-theme-japanese-tofu"
   },
   "devDependencies": {
     "lerna": "^3.13.4",

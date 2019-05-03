@@ -3,11 +3,14 @@ This repository contains Japanese themes for [Typography.js](https://kyleamathew
 
 このレポジトリには、[Typography.js](https://kyleamathews.github.io/typography.js/)の日本語向けテーマが含まれています。
 
-## Usage
-TBD
+## Demo/playground
 
-## 使用方法
-あとで書く
+https://static.riywo.com/typography-japanese/
+
+## Themes
+
+- [typography-theme-japanese-tofu](https://github.com/riywo/typography-japanese/tree/master/packages/typography-theme-japanese-tofu)
+- Coming soon?
 
 ## Sample
 Typography is the art and technique of arranging type to make written language legible, readable, and appealing when displayed. The arrangement of type involves selecting typefaces, point sizes, line lengths, line-spacing (leading), and letter-spacing (tracking), and adjusting the space between pairs of letters (kerning[1]). The term typography is also applied to the style, arrangement, and appearance of the letters, numbers, and symbols created by the process. Type design is a closely related craft, sometimes considered part of typography; most typographers do not design typefaces, and some type designers do not consider themselves typographers.[2][3] Typography also may be used as a decorative device, unrelated to communication of information.
