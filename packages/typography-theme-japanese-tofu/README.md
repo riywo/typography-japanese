@@ -16,3 +16,6 @@ import theme from 'typography-theme-japanese-tofu'
 const typography = new Typography(theme)
 ```
 
+## Demo/playground
+
+https://static.riywo.com/typography-japanese/
